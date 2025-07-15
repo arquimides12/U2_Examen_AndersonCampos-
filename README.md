@@ -17,6 +17,9 @@ Este proyecto consiste en la creación de una pequeña aplicación interactiva u
 
 ## Estructura del Proyecto
 
+![Captura de ejecución](doc/estru.png)
+
+
 ## Instrucciones para ejecutar el proyecto
 
 1. Clona el repositorio:
@@ -70,3 +73,18 @@ Ahora que tenemos el archivo `README.md` listo, vamos a realizar un commit y lue
 
    ```bash
    git status
+```
+## Ejecucion 
+
+> Primera ejecucion
+![Captura de ejecución](doc/bio.png)
+
+> segunda ejecucion
+![Captura de ejecución](doc/bio.png)
+
+> tercera ejecucion
+![Captura de ejecución](doc/bio.png)
+
+> cuarta ejecucion
+![Captura de ejecución](doc/bio.png)
+
