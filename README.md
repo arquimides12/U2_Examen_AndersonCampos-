@@ -79,12 +79,5 @@ Ahora que tenemos el archivo `README.md` listo, vamos a realizar un commit y lue
 > Primera ejecucion
 ![Captura de ejecución](doc/bio.png)
 
-> segunda ejecucion
-![Captura de ejecución](doc/bio.png)
 
-> tercera ejecucion
-![Captura de ejecución](doc/bio.png)
-
-> cuarta ejecucion
-![Captura de ejecución](doc/bio.png)
 
