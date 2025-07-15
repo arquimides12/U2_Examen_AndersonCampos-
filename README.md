@@ -1,4 +1,3 @@
-# Proyecto de Web Components - Universidad de las Fuerzas Armadas ESPE
 
 ## Descripción
 
